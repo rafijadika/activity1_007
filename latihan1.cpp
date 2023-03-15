@@ -16,4 +16,4 @@ int main (){
     luas = P*L:
     //Display, " luasnya ; " + luas
     cout << "Luasnya ; " << 
-}
+}//end
